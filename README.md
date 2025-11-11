@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/FJSuit-logo.png" width="200" alt="FJSuit Logo"/>
+</p>
+
+
 # FJSuit – Fluid Jet Laboratory Control Suite
 
 **FJSuit** (Fardin Jahanbaksh Shojae Suite) is a proprietary laboratory control and data-acquisition software developed for thermo-fluid and synthetic jet research environments.  
